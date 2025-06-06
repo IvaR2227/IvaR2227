@@ -1,3 +1,4 @@
+<img src="Frame 1.svg" alt="Github-banner" width="100%" /> 
 # 💫 About Me:
 👋 Hi, I’m Soham<br>👀 I’m interested in C,C++,JS,JAVA,ML<br>🌱 I’m currently learning JAVA<br>💞️ I’m looking to collaborate on Web development projects focused on creating intuitive, user-centered designs.<br>📫 How to reach me -> ✉️Email: sohamkundu4012@gmail.com | 💬Discord: its_ivar<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’m passionate about blending creativity with tech—whether it’s through UI design or gaming!
 
